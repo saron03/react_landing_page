@@ -17,7 +17,7 @@ A personal React project to practice frontend development with modern tools.
 ## Setup
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/saron03/react_landing_page
    ```
 2. Install dependencies:
    ```bash

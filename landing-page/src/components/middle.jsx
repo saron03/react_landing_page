@@ -18,7 +18,7 @@ export default function Middle() {
                     <p className='border-1 px-3 border-white rounded-3xl text-center inline-block'>SEO 2.0</p>
                 </div>
             </div>
-            <div className='flex space-x-1'>
+            <div className='flex space-x-1 mb-10'>
                 <img src={image1} alt="orange card" />
                 <img src={image2} alt="white card" />
                 <img src={image3} alt="yellow card" />
